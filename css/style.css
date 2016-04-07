@@ -1,0 +1,48 @@
+h3 {
+  border: 5px solid black;
+  font-size: 3em;
+  margin: 3em auto 0 auto;
+  padding: 1.5em;
+  width: 200px;
+}
+
+.line1,
+.line2,
+.line3 {
+  display: block;
+  text-transform: uppercase;
+}
+
+.line1 {
+  border-bottom: 5px solid black;
+}
+
+.line2 {
+  border-bottom: 5px solid black;
+}
+
+.line3 {
+  text-align: center;
+  letter-spacing: 20px;
+}
+
+/*Main Title*/
+
+#title {
+    color: cornflowerblue;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 8 px;
+    font-size: 5em;
+}
+
+.char1, 
+.char3, 
+.char5 {
+  color: orange;
+}
+
+
+
+
+
